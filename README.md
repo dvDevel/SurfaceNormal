@@ -1,5 +1,5 @@
 # SurfaceNormal
-This repository to describe the Normal or Surface normal.
+This repository is used to describe the normal (surface normal).
 
 Normal that goes straight out from the surface of a sphere at the point of contact, forming a 90° angle with the surface (or with the tangent plane/rectangle touching it).
 
